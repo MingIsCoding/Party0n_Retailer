@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#FF99CC00</color>
+    <color name="colorPrimaryDark">#FF669900</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="font_white_color">#FFFFFF</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_red_light">#ffff4444</color>
+
+    <style name="ActionBarStyle">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textColor">@color/font_white_color</item>
+    </style>
+</resources>
